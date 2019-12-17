@@ -1,0 +1,271 @@
+
+body {
+	background-image: url(disney.jpeg);
+	background-size: 100%;
+}
+#game {
+	background-image: url(tiger_back.png);
+	background-size: 100%;
+	width:450px;
+	height:500px;
+	border-collapse: collapse;
+	border-bottom-color: blue;
+	border-left-color: white
+	border-top-color: silver;
+	border-right-color: purple;
+}
+#ranking{
+	background-image: url(up.png);
+	width: 200px;
+	height: 100px; 
+	background-size: 40%;
+	color: bf00ff;
+	font-family: Impact, fantasy;
+	font-size: 25px;
+}
+#movecounter {
+	color: bf00ff;
+	height: 37px;
+}
+#stopwatch{
+	color: black;
+}
+#randomize {
+	background-image: url(disney-logo.jpg);
+	background-size: 50%;
+	width: 150px;
+	height: 60px;
+	color: #b7e8ff;
+	font-size: 20px;
+	font-family: Impact, fantasy;
+	border-radius: 15px;
+}
+#randomize:hover {
+	background-color: #0080ff;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#randomize2 {
+	background-image: url(disney-logo.jpg);
+	background-size: 50%;
+	width: 150px;
+	height: 60px;
+	color: #b7e8ff;
+	font-size: 20px;
+	font-family: Impact, fantasy;
+	border-radius: 15px;
+}
+#randomize2:hover {
+	background-color: #0080ff;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#fix {
+	background-image: url(disney_logo.jpg);
+	background-size: 60%;
+	width: 150px;
+	height: 60px;
+	color: #ccefff;
+	font-size: 20px;
+	font-family: Impact, fantasy;
+	border-radius: 15px;
+}
+#fix:hover {
+	background-color: #0080ff;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#leaderboard {
+	background-color: purple;
+	color: white;
+}
+
+td.one{
+background-image: url("tiger_1.png");
+background-size: 100%;
+}
+td.two{
+background-image: url("tiger_2.png");
+background-size: 100%;;
+}
+td.three{
+background-image: url("tiger_3.png");
+background-size: 100%;
+}
+td.four{
+background-image: url("tiger_4.png");
+background-size: 107%;
+}
+td.five{
+background-image: url("tiger_5.png");
+background-size: 100%;
+}
+td.six{
+background-image: url("tiger_6.png");
+background-size: 103%;
+}
+td.seven{
+background-image: url("tiger_7.png");
+background-size: 100%;
+}
+td.eight{
+background-image: url("tiger_8.png");
+background-size: 100%;
+}
+
+
+td.stitchone{
+background-image: url("stitch_1.png");
+background-size: 100%;
+}
+td.stitchtwo{
+background-image: url("stitch_2.png");
+background-size: 100%;
+}
+td.stitchthree{
+background-image: url("stitch_3.png");
+background-size: 100%;
+}
+td.stitchfour{
+background-image: url("stitch_4.png");
+background-size: 107%;
+}
+td.stitchfive{
+background-image: url("stitch_5.png");
+background-size: 103%;
+}
+td.stitchsix{
+background-image: url("stitch_6.png");
+background-size: 103%;
+}
+td.stitchseven{
+background-image: url("stitch_7.png");
+background-size: 100%;
+}
+
+td.stitchnine{
+background-image: url("stitch_9.png");
+background-size: 100%;
+}
+td.stitchten{
+background-image: url("stitch_10.png");
+background-size: 100%;
+}
+td.stitcheleven{
+background-image: url("stitch_11.png");
+background-size: 100%;
+}
+td.stitchtwelve{
+background-image: url("stitch_12.png");
+background-size: 100%;
+}
+td.stitchthirteen{
+background-image: url("stitch_13.png");
+background-size: 100%;
+}
+td.stitchfourteen{
+background-image: url("stitch_14.png");
+background-size: 100%;
+}
+td.stitchfifteen{
+background-image: url("stitch_15.png");
+background-size: 100%;
+}
+td.stitchsixteen{
+background-image: url("stitch_16.png");
+background-size: 100%;
+}
+
+td.upone{
+background-image: url("up_1.png");
+background-size: 100%;
+}
+td.uptwo{
+background-image: url("up_2.png");
+background-size: 100%;
+}
+td.upthree{
+background-image: url("up_3.png");
+background-size: 100%;
+}
+td.upfour{
+background-image: url("up_4.png");
+background-size: 100%;
+}
+td.upfive{
+background-image: url("up_5.png");
+background-size: 100%;
+}
+td.upsix{
+background-image: url("up_6.png");
+background-size: 100%;
+}
+td.upseven{
+background-image: url("up_7.png");
+background-size: 100%;
+}
+td.upeight{
+background-image: url("up_8.png");
+background-size: 100%;
+}
+td.upnine{
+background-image: url("up_9.png");
+background-size: 100%;
+}
+td.upten{
+background-image: url("up_10.png");
+background-size: 100%;
+}
+td.upeleven{
+background-image: url("up_11.png");
+background-size: 100%;
+}
+td.uptwelve{
+background-image: url("up_12.png");
+background-size: 100%;
+}
+td.upthirteen{
+background-image: url("up_13.png");
+background-size: 100%;
+}
+td.upfourteen{
+background-image: url("up_14.png");
+background-size: 100%;
+}
+td.upfifteen{
+background-image: url("up_15.png");
+background-size: 100%;
+}
+td.upsixteen{
+background-image: url("up_16.png");
+background-size: 100%;
+}
+td.upseventeen{
+background-image: url("up_17.png");
+background-size: 100%;
+}
+td.upeightteen{
+background-image: url("up_18.png");
+background-size: 100%;
+}
+td.upnineteen{
+background-image: url("up_19.png");
+background-size: 100%;
+}
+td.uptwenty{
+background-image: url("up_20.png");
+background-size: 100%;
+}
+td.uptwenty1{
+background-image: url("up_21.png");
+background-size: 100%;
+}
+td.uptwenty2{
+background-image: url("up_22.png");
+background-size: 100%;
+}
+td.uptwenty4{
+background-image: url("up_24.png");
+background-size: 100%;
+}
+td.uptwenty5{
+background-image: url("up_25.png");
+background-size: 100%;
+}
